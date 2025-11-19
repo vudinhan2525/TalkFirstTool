@@ -7,8 +7,8 @@ app.use(express.json());
 const LOGIN_URL = "https://service.talkfirst.vn/v1/api/account/student/login";
 const REGISTER_URL = "https://service.talkfirst.vn/v1/api/student/lesson/register";
 
-const CRON_USER = "";
-const CRON_PASS = "";
+const CRON_USER = "vudinhan000@gmail.com";
+const CRON_PASS = "DoibuonJQK123!";
 
 const LESSON_IDS = [
     "8b2ce08f-5140-4544-a8c2-97c9c4806121",
