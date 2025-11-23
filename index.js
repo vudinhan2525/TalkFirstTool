@@ -11,10 +11,10 @@ const CRON_USER = "vudinhan000@gmail.com";
 const CRON_PASS = "DoibuonJQK123!";
 
 const LESSON_IDS = [
-    "8b2ce08f-5140-4544-a8c2-97c9c4806121",
-    "a0972f74-bb83-4327-8030-7b53d102c6d3",
-    "ddda75d3-1d08-4b2f-9c90-9ca0797d52c8",
-    "8e30ae57-50dc-4605-83b2-d6a210960bdb",
+    "a4732cd7-2000-40ce-be66-9449ecc427b1",
+    "48609221-c124-4d27-b329-8f55510e306e",
+    "c763d928-102c-4dcc-aaac-616b7b02b09a",
+    "bd5d9c7d-e15d-4687-94aa-4dc90d47f1ff",
 ];
 
 async function retryRequest(fn, retries = 3, delay = 2000) {
